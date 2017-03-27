@@ -1,0 +1,17 @@
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\ISchool.DAL.dll.config
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\ISchool.DAL.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\ISchool.DAL.pdb
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\ISchool.Models.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\ISchool.Models.pdb
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\ISchool.Models.dll.config
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\obj\Debug\ISchool.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\obj\Debug\ISchool.DAL.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\obj\Debug\ISchool.DAL.pdb

@@ -1,0 +1,17 @@
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.Service.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.Service.pdb
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.DAL.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.Models.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\EntityFramework.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.DAL.pdb
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.DAL.dll.config
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.Models.pdb
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\ISchool.Models.dll.config
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\EntityFramework.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\obj\Debug\ISchool.Service.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\obj\Debug\ISchool.Service.dll
+C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\obj\Debug\ISchool.Service.pdb
