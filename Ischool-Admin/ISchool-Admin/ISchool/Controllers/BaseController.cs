@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace ISchool.Controllers
 {
+    [Authorize]
     public class BaseController : Controller
     {
         protected readonly IDbContext Context;

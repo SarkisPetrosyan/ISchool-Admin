@@ -4,13 +4,16 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using ISchool.DAL.Context;
+using ISchool.Service.Services;
 
 namespace ISchool.Controllers
 {
     public class GroupController : BaseController
     {
-        public GroupController(IDbContext context) : base(context)
+        private Lazy<IGroupService> _groupService;
+        public GroupController(IDbContext context, IGroupService groupService) : base(context)
         {
+            _groupService = new Lazy<IGroupService>(() => groupService);
         }
 
         // GET: Group

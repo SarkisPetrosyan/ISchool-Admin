@@ -3,3 +3,8 @@ C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Infrastructu
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Infrastructure\obj\Debug\ISchool.Infrastructure.csprojResolveAssemblyReference.cache
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Infrastructure\obj\Debug\ISchool.Infrastructure.dll
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Infrastructure\obj\Debug\ISchool.Infrastructure.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Infrastructure\bin\Debug\ISchool.Infrastructure.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Infrastructure\bin\Debug\ISchool.Infrastructure.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Infrastructure\obj\Debug\ISchool.Infrastructure.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Infrastructure\obj\Debug\ISchool.Infrastructure.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Infrastructure\obj\Debug\ISchool.Infrastructure.pdb

@@ -12,3 +12,17 @@ C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Models\bin\D
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Models\obj\Debug\ISchool.Models.dll
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Models\obj\Debug\ISchool.Models.pdb
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Models\obj\Debug\ISchool.Models.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\ISchool.Models.dll.config
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\ISchool.Models.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\ISchool.Models.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\EntityFramework.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\EntityFramework.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\obj\Debug\ISchool.Models.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\obj\Debug\ISchool.Models.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Models\obj\Debug\ISchool.Models.pdb

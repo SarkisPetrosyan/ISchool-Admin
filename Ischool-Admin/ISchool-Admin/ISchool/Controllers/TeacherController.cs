@@ -4,14 +4,16 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using ISchool.DAL.Context;
+using ISchool.Service.Services;
 
 namespace ISchool.Controllers
 {
     public class TeacherController : BaseController
     {
-        public TeacherController(IDbContext context) : base(context)
+        private Lazy<ITeacherService> _teacherService;
+        public TeacherController(IDbContext context, ITeacherService teacherService) : base(context)
         {
-
+            _teacherService = new Lazy<ITeacherService>(() => teacherService);
         }
 
         // GET: Teacher

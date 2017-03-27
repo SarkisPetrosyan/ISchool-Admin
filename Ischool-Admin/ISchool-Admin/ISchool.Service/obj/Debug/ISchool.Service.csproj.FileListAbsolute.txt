@@ -15,3 +15,20 @@ C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\bin\
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\obj\Debug\ISchool.Service.csprojResolveAssemblyReference.cache
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\obj\Debug\ISchool.Service.dll
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.Service\obj\Debug\ISchool.Service.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.Service.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.Service.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.DAL.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.Models.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\EntityFramework.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.DAL.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.DAL.dll.config
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.Models.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\ISchool.Models.dll.config
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\EntityFramework.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\obj\Debug\ISchool.Service.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\obj\Debug\ISchool.Service.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.Service\obj\Debug\ISchool.Service.pdb

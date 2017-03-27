@@ -15,3 +15,20 @@ C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\bin\Debu
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\obj\Debug\ISchool.DAL.csprojResolveAssemblyReference.cache
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\obj\Debug\ISchool.DAL.dll
 C:\Users\user\documents\visual studio 2017\Projects\ISchool\ISchool.DAL\obj\Debug\ISchool.DAL.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\ISchool.DAL.dll.config
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\ISchool.DAL.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\ISchool.DAL.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\EntityFramework.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\ISchool.Models.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\ISchool.Models.pdb
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\ISchool.Models.dll.config
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\EntityFramework.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\obj\Debug\ISchool.DAL.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\obj\Debug\ISchool.DAL.dll
+C:\WorkSpace\Admin ISchool\ISchool-Admin\Ischool-Admin\ISchool-Admin\ISchool.DAL\obj\Debug\ISchool.DAL.pdb

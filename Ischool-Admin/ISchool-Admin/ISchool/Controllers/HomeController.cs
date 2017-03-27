@@ -3,11 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ISchool.DAL.Context;
 
 namespace ISchool.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
+        public HomeController(IDbContext context) : base(context)
+        {
+        }
+
         public ActionResult Index()
         {
             return View();
